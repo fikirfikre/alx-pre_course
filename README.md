@@ -1,1 +1,2 @@
-MY readme
+it is read me file
+
